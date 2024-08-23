@@ -4,5 +4,5 @@ function canVote(age)
   return result;
 }
 
-let eligible = canVote(19);
+let eligible = canVote(17);
 console.log(eligible);
